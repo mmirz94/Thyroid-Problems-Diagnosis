@@ -1,4 +1,0 @@
-The data set was downloaded from: https://archive.ics.uci.edu/ml/datasets/Thyroid+Disease
-Only "allhyper.data", "allhyper.names", "allrep.data", and "allrep.names" were used. 
-I created CSV files from them to be able to open and read them using Pandas library.
-You can download the CSV files here. :)
